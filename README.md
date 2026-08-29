@@ -1,22 +1,22 @@
 # 🖥️ Icaro Silva
-`Backend Java Developer`
+`Backend Developer | Java & Spring Boot`
 
-#### Olá, eu sou o Icaro 👋
+Desenvolvo APIs REST usando Java, Spring Boot, Spring Security e PostgreSQL,
+buscando aprofundar práticas de engenharia de software, infraestrutura e
+segurança.
 
-Desenvolvedor backend apaixonado por construir APIs robustas, bem estruturadas e escaláveis.
+Ao longo dos projetos que venho construindo, tenho me aprofundado em temas
+como controle de acesso, modelagem de dados e proteção de endpoints —
+áreas que despertam meu interesse tanto na prática quanto no estudo contínuo.
 
-Meu foco principal é o ecossistema Java, utilizando Spring Boot, Spring Security, JPA/Hibernate,
-PostgreSQL e Docker no desenvolvimento de aplicações backend. Tenho interesse
-crescente em segurança aplicada ao desenvolvimento web e estudo tópicos como
-autenticação, autorização e boas práticas de proteção de APIs.  
-Acredito que escrever código limpo, entender o que está construindo e ter curiosidade
-constante valem mais do que acumular tecnologias. 
+Gosto de entender o funcionamento por trás das ferramentas que uso, o que
+me leva a explorar tópicos como boas práticas de arquitetura e integração
+entre serviços, além da linguagem e do framework em si.
 
-Atualmente busco minha primeira oportunidade profissional como desenvolvedor backend Java,
-onde possa contribuir, aprender continuamente e crescer junto a um time experiente.
+Estou em busca da minha primeira posição como desenvolvedor backend Java,
+com vontade de aprender e contribuir junto a um time experiente.
 
-Acesse meu perfil no [Linkedin](https://www.linkedin.com/in/icaro-silva-10885a365/)  
-Belo Horizonte, MG.
+📍 Belo Horizonte, MG | [LinkedIn](https://www.linkedin.com/in/icaro-silva-10885a365/)
 
 ---
 
