@@ -30,6 +30,7 @@ com vontade de aprender e contribuir junto a um time experiente.
 <img style="padding-right: 5px" title="MySQL" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img style="padding-right: 5px" title="Swagger" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />
 <img style="padding-right: 5px" title="Git" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img style="padding-right: 5px" title="RabbitMQ" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" />
 <img style="padding-right: 5px" title="JUnit" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original-wordmark.svg" />
 <img style="padding-right: 5px" title="Linux" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 </p>
