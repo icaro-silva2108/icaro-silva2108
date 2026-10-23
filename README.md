@@ -1,20 +1,13 @@
 # 🖥️ Icaro Silva
 `Backend Developer | Java & Spring Boot`
 
-Desenvolvo APIs REST usando Java, Spring Boot, Spring Security e PostgreSQL,
-buscando aprofundar práticas de engenharia de software, infraestrutura e
-segurança.
+I build REST APIs with Java, Spring Boot, Spring Security, and PostgreSQL, with a focus on deepening my skills in software engineering, infrastructure, and security.
 
-Ao longo dos projetos que venho construindo, tenho me aprofundado em temas
-como controle de acesso, modelagem de dados e proteção de endpoints —
-áreas que despertam meu interesse tanto na prática quanto no estudo contínuo.
+Through the projects I've been building, I've dived deeper into access control, data modeling, and endpoint protection, areas that interest me both in practice and as a subject of continuous study.
 
-Gosto de entender o funcionamento por trás das ferramentas que uso, o que
-me leva a explorar tópicos como boas práticas de arquitetura e integração
-entre serviços, além da linguagem e do framework em si.
+I like understanding how the tools I use work under the hood, which leads me to explore topics such as architecture best practices and service integration, beyond the language and framework themselves.
 
-Estou em busca da minha primeira posição como desenvolvedor backend Java,
-com vontade de aprender e contribuir junto a um time experiente.
+I'm looking for my first position as a Java backend developer, eager to learn and contribute alongside an experienced team.
 
 📍 Belo Horizonte, MG | [LinkedIn](https://www.linkedin.com/in/icaro-silva-10885a365/)
 
@@ -40,8 +33,8 @@ com vontade de aprender e contribuir junto a um time experiente.
 ## 📊 Statistics
 
 <p>
-<img src="https://github-stats-extended.vercel.app/api?username=icaro-silva2108&custom_title=Icaro%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=blue_navy">
-<img height="195px" src="https://github-stats-extended.vercel.app/api/top-langs?username=icaro-silva2108&langs_count=3&theme=blue_navy">
+<img src="https://github-stats-extended.vercel.app/api?username=icaro-silva2108&rank_icon=github&include_all_commits=true&theme=blue_navy">
+<img height="195px" src="https://github-stats-extended.vercel.app/api/top-langs?username=icaro-silva2108&layout=donut&langs_count=4&theme=blue_navy">
 </p>
 
 ## 📌 Featured Projects
@@ -52,7 +45,7 @@ com vontade de aprender e contribuir junto a um time experiente.
 ### Petshop API:  
 <img src="https://github-stats-extended.vercel.app/api/pin?username=icaro-silva2108&repo=icaro-silva2108%2Fapi_petshop&theme=blue_navy">
 
-🔗 **API Documentation:** [Swagger UI](https://api-petshop-uqh5.onrender.com/swagger-ui/index.html)  
+🔗 **Deployed API Documentation:** [Swagger UI](https://api-petshop-uqh5.onrender.com/swagger-ui/index.html)  
 ⚠️ **May take a few seconds to start (Render cold start).**
 
 ### Product Management:  
