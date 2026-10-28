@@ -32,10 +32,9 @@ I'm looking for my first position as a Java backend developer, eager to learn an
 
 ## 📊 Statistics
 
-<p>
-<img src="https://github-stats-extended.vercel.app/api?username=icaro-silva2108&rank_icon=github&include_all_commits=true&theme=blue_navy">
-<img height="195px" src="https://github-stats-extended.vercel.app/api/top-langs?username=icaro-silva2108&layout=donut&langs_count=4&theme=blue_navy">
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=icaro-silva2108&theme=city_lights&bg_color=000000)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=icaro-silva2108&theme=city_lights&bg_color=000000)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=icaro-silva2108&theme=city_lights&bg_color=000000)
 
 ## 📌 Featured Projects
 
